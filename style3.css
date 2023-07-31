@@ -1,0 +1,10 @@
+p{
+    margin-left: auto;
+    margin-right: auto;
+    border-top: solid 10px red;
+    border-left: solid 10px black;
+    border-bottom: dashed 10px green ;
+    border-right: dotted 10px blue ;
+    text-align: center;
+    width: 25%;
+}

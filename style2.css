@@ -1,0 +1,29 @@
+table{
+    border: solid 2px blue;
+    width: 50%;
+}
+
+th{
+    background-color: silver;
+    height: 40px;
+}
+
+.trois{
+    background-color: #FCC;
+}
+
+.quatre{
+    background-color: #FFC;
+}
+
+.cinq{
+    background-color: #CFC;
+}
+
+.six{
+    background-color: #CFF;
+}
+
+.sept{
+    background-color: lightgray
+}
